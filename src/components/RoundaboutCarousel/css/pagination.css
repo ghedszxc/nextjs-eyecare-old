@@ -1,0 +1,16 @@
+.carousel-dot-button {
+    .swiper-pagination-bullet {
+        width: 10px;
+        height: 10px;
+        background-color: black;
+        border-radius: 50%;
+        opacity: 1;
+        border: 2px solid transparent;
+      }
+      
+      .swiper-pagination-bullet-active {
+        background-color: transparent;
+        border: 2px solid red;
+      }
+}
+  

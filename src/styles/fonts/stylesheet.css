@@ -1,0 +1,20 @@
+:root {
+  --AvenirLTStd: "AvenirLTStd";
+  --AvenirLTStd55: "AvenirLTStd55";
+}
+
+@font-face {
+  font-family: "AvenirLTStd";
+  src: url("Avenir_LT_Std_65_Medium.otf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "AvenirLTStd55";
+  src: url("Avenir_LT_Std_55_Roman.otf");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}

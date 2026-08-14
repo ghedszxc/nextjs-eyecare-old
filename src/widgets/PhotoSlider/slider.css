@@ -1,0 +1,42 @@
+/* DESKTOP VIEW */
+@media screen and (min-width: 1024px) {
+    .swiper-button-prev, .swiper-button-next {
+        color: black;
+        padding: 0 40px 0 40px;
+    }
+
+    .swiper-pagination-bullet-active {
+        background: transparent !important;
+        border: 1px solid red;
+        height: 12px;
+        width: 12px;
+    }
+    
+    .swiper-pagination-bullet {
+        background: black;
+        opacity: 1;
+        height: 12px;
+        width: 12px;
+    }
+}
+
+/* MOBILE VIEW */
+@media screen and (max-width: 1023px) {
+    .swiper-button-prev, .swiper-button-next {
+        display: none;
+    }
+    
+    .swiper-pagination-bullet-active {
+        background: transparent !important;
+        border: 1px solid red;
+        height: 9px;
+        width: 9px;
+    }
+    
+    .swiper-pagination-bullet {
+        background: black;
+        opacity: 1;
+        height: 9px;
+        width: 9px;
+    }
+}

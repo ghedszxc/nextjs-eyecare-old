@@ -1,0 +1,7 @@
+{
+    "GRAPHQL_URL":"https://cms.essilorluxotticaeyecare.com/graphql",
+    "AKAMAY_PATH":"https://media.essilorluxotticaeyecare.com/cms",
+    "NEXT_PUBLIC_CM_SEGMENT": "eyc-",
+    "NEXT_PUBLIC_DOMAIN": "https://essilorluxotticaeyecare.com/",
+    "NEXT_PUBLIC_AKAMAY_PATH": "https://media.essilorluxotticaeyecare.com/cms"    
+}
